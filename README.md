@@ -1,6 +1,6 @@
 # FINDMYCAR
 
-This is a JAVA program  Java program that enables users to customize their car purchase based on a
+This is a JAVA program that enables users to customize their car purchase based on a
 specified budget.
 
 The program have:
